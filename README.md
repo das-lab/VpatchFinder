@@ -19,4 +19,4 @@ All data are divided into two parts:
 ## Reference
 If you use the dataset in a scientific publication, please indicate the reference:
 
-黄诚,孙明旭,段仁语,吴苏晟,陈斌.面向项目版本差异性的漏洞识别技术研究[J/OL].网络与信息安全学报:1-11[2022-02-09].http://kns.cnki.net/kcms/detail/10.1366.TP.20211028.0904.002.html.
+(黄诚, 孙明旭, 段仁语, 吴苏晟, 陈斌. 面向项目版本差异性的漏洞识别技术研究[J]. 网络与信息安全学报, 2022, 8(1): 52-62.)[http://www.infocomm-journal.com/cjnis/CN/10.11959/j.issn.2096-109x.2021094]
